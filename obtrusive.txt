@@ -198,6 +198,7 @@ ideone.com###cookie-ue
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
+illumsbolighus.no/###CookieInformationDialog
 ina.fr##.cookies-bar
 indema.si###cookie-law-info-bar
 indiegogo.com###fancybox-overlay
